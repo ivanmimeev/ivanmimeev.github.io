@@ -1,0 +1,88 @@
+html { height: 100%; }
+body {
+    margin: 0; /* Убираем отступы */
+    height: 100%; /* Высота страницы */
+  background: url("fon.png") no-repeat;
+  background-size: cover;
+
+}
+.header {
+    z-index: 1;
+    position: absolute;
+    width: 100%;
+    margin: 0px;
+    }
+.search
+{
+    position: absolute;
+    z-index: 2;
+    margin: 12px;
+  margin-left: 390px;
+}
+.old
+{
+    position: absolute;
+    z-index: 3;
+    margin: 24px;
+  margin-left: 864px;
+}
+.icons
+{
+    position: absolute;
+    z-index: 3;
+    margin: 82px;
+  margin-left: 415px;
+}
+.back
+{
+    position: absolute;
+    z-index: 4;
+    margin: 163px;
+  margin-left: 390px;
+}
+.attention
+{
+    position: absolute;
+    z-index: 6;
+    margin: 193px;
+  margin-left: 488px;
+}
+.button
+{
+    position: absolute;
+    z-index: 7;
+    margin: 262px;
+  margin-left: 460px;
+}
+.look
+{
+    position: absolute;
+    z-index: 8;
+    margin: 343px;
+  margin-left: 527px;
+}
+.price
+{
+    position: absolute;
+    z-index: 9;
+    margin: 468px;
+  margin-left: 508px;
+}
+.icon
+{
+    position: absolute;
+    z-index: 10;
+    margin: 520px;
+  margin-left: 415px;
+}
+.footer
+{
+    position: absolute;
+    z-index: 10;
+    margin: 700px;
+  margin-left: 470px;
+}
+
+ 
+ 
+ 
