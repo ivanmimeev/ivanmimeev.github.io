@@ -18,9 +18,9 @@ body {
   display: inline-block;
   margin-left: 390px;
   width: 454px;
-  float: left;
 }
 .age-limit{
+  vertical-align: top;
   margin: 12px 0 0 20px;
   display: inline-block;
 }
