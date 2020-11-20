@@ -21,9 +21,21 @@ body {
 }
 .age-limit{
   vertical-align: top;
-  margin: 12px 0 0 20px;
+  margin: 12px 0 0 16px;
   display: inline-block;
 }
-
- 
- 
+.icons-up
+{
+display: inline-block;
+  margin-left: 414px;
+  margin-top: 19px;
+}
+ .background-button
+ {
+   background: url("back.png") no-repeat;
+   margin: 18px 0 0 388px;
+ }
+ .button2
+ {
+   margin: -235px 0 0 462px;
+ }
