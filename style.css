@@ -33,9 +33,11 @@ display: inline-block;
  .button
  {
    background: url("back.png") no-repeat;
-   margin: 18px 0 0 388px;
+     height: 333px;
+     margin: 17px 0 0 388px;
+     padding-top: 1px;
  }
  .button2
  {
-   margin: -235px 0 0 462px;
+     margin: 98px 0px 0 75px;
  }
