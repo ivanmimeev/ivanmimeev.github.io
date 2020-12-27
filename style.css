@@ -26,7 +26,7 @@ body {
 }
 .icons-up
 {
-display: inline-block;
+  display: inline-block;
   margin-left: 414px;
   margin-top: 19px;
 }
@@ -34,10 +34,48 @@ display: inline-block;
  {
    background: url("back.png") no-repeat;
      height: 333px;
+     width: 500px;
      margin: 17px 0 0 388px;
      padding-top: 1px;
  }
- .button2
+
+p
+{
+    font-size: 18px;
+    line-height: 21px;
+    color: #ffffff;
+    font-family: Arial;
+    text-align: center;
+}
+
+.button2
  {
-     margin: 98px 0px 0 75px;
+    background: url("button.png") no-repeat;
+    height: 194px;
+    width: 357px;
+    margin: 42px auto 5px auto;
  }
+h1
+{
+    font-size: 40px;
+    line-height: 21px;
+    color: #ffffff;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 86px;
+    text-transform: uppercase;
+}
+.icons-down
+{
+    margin-left: 414px;
+    margin-top: 19px;
+}
+h2
+{
+    font-size: 16px;
+    line-height: 16px;
+    color: #39425e;
+    font-weight: 400;
+    font-family: "arial";
+    text-align: center;
+}
