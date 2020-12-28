@@ -1,28 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
+    <expand />
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="409d2a91-1a9c-4d78-b78b-73442df7461d" name="Default Changelist" comment="button3">
+    <list default="true" id="409d2a91-1a9c-4d78-b78b-73442df7461d" name="Default Changelist" comment=" final">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +39,8 @@
       <workItem from="1608144722975" duration="2784000" />
       <workItem from="1609013480301" duration="25000" />
       <workItem from="1609013554852" duration="4000" />
-      <workItem from="1609013643178" duration="6981000" />
+      <workItem from="1609013643178" duration="7136000" />
+      <workItem from="1609108394806" duration="1303000" />
     </task>
     <task id="LOCAL-00001" summary="button">
       <created>1606831580657</created>
@@ -78,7 +63,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606835046177</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=" final">
+      <created>1609108109234</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609108109234</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -106,13 +98,14 @@
     <MESSAGE value="button" />
     <MESSAGE value="button2" />
     <MESSAGE value="button3" />
-    <option name="LAST_COMMIT_MESSAGE" value="button3" />
+    <MESSAGE value=" final" />
+    <option name="LAST_COMMIT_MESSAGE" value=" final" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1606835049225">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1609108094719">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1606835049225" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1609108094719" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606831547411">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
