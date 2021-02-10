@@ -6,17 +6,25 @@ body {
   background-size: cover;
 
 }
-.page-header {
-  background: url("header.png");
+.page-header
+{
+  background: #3d5495;
   width: 100%;
   height: 50px;
   margin: 0px;
   padding-top: 12px;
 }
-.search
+.s-style
+{
+    margin:auto;
+    display: block;
+    text-align: center;
+}
+
+.b-search
 {
   display: inline-block;
-  margin-left: 390px;
+  margin-left: 0px;
   width: 454px;
 }
 .age-limit{
@@ -27,16 +35,17 @@ body {
 .icons-up
 {
   display: inline-block;
-  margin-left: 414px;
+  margin-left: 0px;
   margin-top: 19px;
 }
- .button
+ .b-button
  {
-   background: url("back.png") no-repeat;
+   background: #2a3b70;
      height: 333px;
      width: 500px;
-     margin: 17px 0 0 388px;
+     margin: 17px auto;
      padding-top: 1px;
+     border-radius: 15px;
  }
 
 p
@@ -46,6 +55,10 @@ p
     color: #ffffff;
     font-family: Arial;
     text-align: center;
+}
+a
+{
+    text-decoration: none;
 }
 
 .button2
@@ -67,8 +80,9 @@ h1
 }
 .icons-down
 {
-    margin-left: 414px;
-    margin-top: 19px;
+    display: inline-block;
+    margin-left: 0px;
+    margin-top: 17px;
 }
 h2
 {
